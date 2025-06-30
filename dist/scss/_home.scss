@@ -18,6 +18,17 @@
     background-position: center center;
     background-size: cover;
 
+    @media (min-width: 1200px) {
+        background-attachment: fixed;
+        background-size: cover;
+        background-position: center center;
+    }
+    @media (max-width: 1199px) {
+        background-attachment: scroll;
+        background-size: cover;
+        background-position: center center;
+    }
+
     &__name {
         font-size: large;
         padding-bottom: 1rem;
