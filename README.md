@@ -1,5 +1,7 @@
 # Minis Luxury
 
+MinisLuxury is a fashion company that brings styles and elegance to the world. When you shop and drip with minis, you'd be dripping like billionaires. This is the writeup codes to the company's website, containing different sections.
+
 A modern fashion and personal shopping website built with HTML, SCSS (Sass), and JavaScript.
 
 ## Features
